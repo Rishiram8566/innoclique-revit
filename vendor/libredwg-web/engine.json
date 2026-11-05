@@ -1,0 +1,6 @@
+{
+  "package": "@mlightcad/libredwg-web",
+  "version": "0.8.4",
+  "module": "vendor/libredwg-web/dist/libredwg-web.js",
+  "wasmDir": "vendor/libredwg-web/wasm/"
+}
